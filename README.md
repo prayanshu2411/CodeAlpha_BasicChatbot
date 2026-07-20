@@ -1,5 +1,5 @@
 # CodeAlpha_BasicChatbot
-# Python AI Chatbot
+# Python  basicChatbot
 
 A simple command-based chatbot built using Python.
 
